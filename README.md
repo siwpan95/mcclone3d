@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **game-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/mcclone3d` 分支；活跃维护请前往 **game-prototypes**。
+> _This repo is archived into game-prototypes; development continues there. Do not commit here._
+
 # mcclone3d —— 《我的世界》风格 3D 体素沙盒（基于 3dworld 引擎）
 
 `mcclone3d` 是 [`mc-clone`](https://gitee.com/siwpan/mc-clone)（MC1 文字冒险 + MC2 2D 侧视）
